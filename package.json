@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-ds82",
+  "version": "1.0.0",
+  "description": "eslint config of ds82",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ds82/eslint-config-ds82.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "es6"
+  ],
+  "author": "Dennis Sänger <npm-eslint-config-ds82-15@mail.ds82.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ds82/eslint-config-ds82/issues"
+  },
+  "homepage": "https://github.com/ds82/eslint-config-ds82#readme",
+  "peerDependencies": {
+    "eslint": "1.3.1",
+    "eslint-plugin-jasmine": "1.3.1"
+  },
+  "config": {
+    "ghooks": {
+      "commit-msg": "./node_modules/.bin/validate-commit-msg && npm test"
+    }
+  }
+}
