@@ -10,5 +10,8 @@ module.exports = {
     "expect": false,
     "beforeEach": false,
     "afterEach": false
+  },
+  "rules": {
+    "max-statements": [1, 100]
   }
 }
