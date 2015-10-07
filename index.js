@@ -9,15 +9,7 @@ module.exports = {
     "document": false,
     "process": false,
     "console": false,
-    "_t": false,
-    "angular": false,
-
-    "jasmine": false,
-    "describe": false,
-    "it": false,
-    "expect": false,
-    "beforeEach": false,
-    "afterEach": false
+    "angular": false
   },
   "rules": {
     "curly": [2, "all"],

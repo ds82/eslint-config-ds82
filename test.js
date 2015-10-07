@@ -4,5 +4,11 @@ module.exports = {
     "eslint-plugin-jasmine"
   ],
   "globals": {
+    "jasmine": false,
+    "describe": false,
+    "it": false,
+    "expect": false,
+    "beforeEach": false,
+    "afterEach": false
   }
 }
