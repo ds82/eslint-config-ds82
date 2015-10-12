@@ -9,7 +9,8 @@ module.exports = {
     "it": false,
     "expect": false,
     "beforeEach": false,
-    "afterEach": false
+    "afterEach": false,
+    "spyOn": false
   },
   "rules": {
     "max-statements": [1, 100]
