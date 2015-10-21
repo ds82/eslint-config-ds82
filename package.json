@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ds82/eslint-config-ds82#readme",
   "peerDependencies": {
-    "eslint": "^1.6.0",
+    "eslint": "^1.7.3",
     "eslint-plugin-jasmine": "^1.4.0"
   },
   "config": {
