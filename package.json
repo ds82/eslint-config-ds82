@@ -4,7 +4,7 @@
   "description": "eslint config of ds82",
   "main": "index.js",
   "scripts": {
-    "test": "eslint index.js test.js"
+    "test": "eslint index.js"
   },
   "repository": {
     "type": "git",
