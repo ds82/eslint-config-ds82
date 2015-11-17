@@ -8,8 +8,7 @@ module.exports = {
     "define": false,
     "document": false,
     "process": false,
-    "console": false,
-    "angular": false
+    "console": false
   },
   "rules": {
     "curly": [2, "all"],
