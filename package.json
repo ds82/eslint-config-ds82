@@ -28,5 +28,9 @@
     "ghooks": {
       "commit-msg": "./node_modules/.bin/validate-commit-msg && npm test"
     }
+  },
+  "devDependencies": {
+    "ghooks": "1.0.0",
+    "validate-commit-msg": "1.0.0"
   }
 }
