@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "ghooks": "1.0.0",
-    "validate-commit-msg": "1.0.0",
+    "validate-commit-msg": "2.4.1",
     "semantic-release": "^4.3.5"
   }
 }
