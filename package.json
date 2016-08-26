@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ds82/eslint-config-ds82#readme",
   "peerDependencies": {
-    "eslint": ">=1.9.0"
+    "eslint": ">=3.4.0"
   },
   "config": {
     "ghooks": {
