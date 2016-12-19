@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ds82/eslint-config-ds82#readme",
   "peerDependencies": {
-    "eslint": ">=1.9.0"
+    "eslint": ">=3"
   },
   "config": {
     "ghooks": {
@@ -31,8 +31,11 @@
     }
   },
   "devDependencies": {
-    "ghooks": "1.0.0",
-    "validate-commit-msg": "1.0.0",
-    "semantic-release": "^4.3.5"
+    "eslint": "3",
+    "ghooks": "1",
+    "semantic-release": "4"
+  },
+  "dependencies": {
+    "validate-commit-msg": "2.8.2"
   }
 }
