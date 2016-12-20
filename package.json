@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "eslint": "3",
-    "ghooks": "1",
+    "ghooks": "2.0.0",
     "semantic-release": "4"
   },
   "dependencies": {
