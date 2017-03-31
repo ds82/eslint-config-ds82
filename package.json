@@ -36,6 +36,6 @@
     "semantic-release": "4"
   },
   "dependencies": {
-    "validate-commit-msg": "2.8.2"
+    "validate-commit-msg": "2.12.0"
   }
 }
