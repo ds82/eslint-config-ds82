@@ -33,7 +33,7 @@
   "devDependencies": {
     "eslint": "3",
     "ghooks": "1",
-    "semantic-release": "4"
+    "semantic-release": "6.3.6"
   },
   "dependencies": {
     "validate-commit-msg": "2.8.2"
